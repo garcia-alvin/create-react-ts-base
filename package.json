@@ -1,5 +1,5 @@
 {
-  "name": "create-react-ts-base",
+  "name": "@garciaalvin/create-react-ts-base",
   "version": "1.0.0",
   "description": "React typescript to serve as base template",
   "main": "index.js",
