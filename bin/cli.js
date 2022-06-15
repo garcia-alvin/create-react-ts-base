@@ -54,5 +54,5 @@ if (!installedDeps) {
   runCommand(`cd .. && rm -rf ${repoName}`);
   process.exit(-1);
 }
-runCommand(`rm -rf bin`);
+
 console.log(`Congratulations!! You are ready. `);
